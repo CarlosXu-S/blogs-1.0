@@ -1,9 +1,8 @@
-console.log("[VuePress Config] Base Path:", "/blogs-1.0/");
+
 module.exports = {
     title: 'Carlos的博客',
     description: '每一个日子，都有不进则退的影子',
     theme: 'reco',
-    dest: "docs/.vuepress/dist",
     locales: {
         "/": {
             lang: "zh-CN"
